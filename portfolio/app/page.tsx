@@ -55,7 +55,7 @@ export default function Home() {
           viewport={{ once: true, margin: "-50px 0px" }}
           className=" py-[25px] font-[Poppins] text-center sm:tracking-[20px]"
         >
-          So You Don't Have To Wait Untill Tomorrow
+          So You Don&#39;t Have To Wait Until Tomorrow
         </motion.h3>
       </div>
     </div>
