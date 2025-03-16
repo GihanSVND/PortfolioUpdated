@@ -41,7 +41,7 @@ export default function Home() {
           viewport={{ once: true, margin: "-50px 0px" }} // Ensures it animates only once when in view
           className="font-[Inter] text-center font-medium text-[50px] sm:text-[60px] md:text-[80px] leading-[1.1] text-white"
         >
-          I'm a <span className="font-[against] font-light">Designer</span>{" "}
+          I&#39;m a <span className="font-[against] font-light">Designer</span>{" "}
           <br />
           who Create the <br />
           <span className="font-[Neuropolitical] font-light">Future</span>{" "}
